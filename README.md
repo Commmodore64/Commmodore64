@@ -1,6 +1,6 @@
 <img src="https://otakukart.com/wp-content/uploads/2021/04/Guts-Berserk.jpg" alt="">
 
-Estudiante de Ciberseguridad y Desarrollo web
+Estudiante de Ciberseguridad y Desarrollo de software
 
 <p>
   <a href="https://www.linkedin.com/in/cmarines/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
