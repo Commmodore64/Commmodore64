@@ -21,9 +21,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, , Typescript, Tailwind**
+- 🔭 I’m currently working on **NextJS, , Typescript, Tailwind**
 
-- 🌱 I’m currently learning **Nextjs, prisma, tRPC**
+<!--- 🌱 I’m currently learning **Nextjs, prisma, tRPC**-->
 
 - 📝 My [portafolio](https://marinescesar.website)
 <!--Intro end-->
